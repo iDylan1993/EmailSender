@@ -1,0 +1,27 @@
+﻿<Window x:Class="EmailSender.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EmailSender"
+        mc:Ignorable="d"
+        Title="Send E-mail" Height="348" Width="388" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,8,0,0" TextWrapping="NoWrap" Text="Host:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,38,0,0" TextWrapping="NoWrap" Text="Your Email:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,66,0,0" TextWrapping="NoWrap" Text="Password:" VerticalAlignment="Top" Height="18"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,123,0,0" TextWrapping="NoWrap" Text="Subject:" VerticalAlignment="Top" Height="18"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,93,0,0" TextWrapping="NoWrap" Text="Email to:" VerticalAlignment="Top" Height="18"/>
+        <TextBox x:Name="HostTextbox" HorizontalAlignment="Left" Height="23" Margin="86,6,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="276" MouseDoubleClick="HostTextbox_MouseDoubleClick"/>
+        <TextBox x:Name="EmailTextbox" HorizontalAlignment="Left" Height="23" Margin="86,35,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="276" MouseDoubleClick="EmailTextbox_MouseDoubleClick"/>
+        <PasswordBox x:Name="PasswordBox" HorizontalAlignment="Left" Height="23" Margin="86,63,0,0"  VerticalAlignment="Top" Width="276" MouseDoubleClick="PasswordBox_MouseDoubleClick"/>
+        <TextBox x:Name="EmailToTextbox" HorizontalAlignment="Left" Height="23" Margin="86,91,0,0"  VerticalAlignment="Top" Width="276" MouseDoubleClick="EmailToTextbox_MouseDoubleClick"/>
+        <TextBox x:Name="SubjectTextbox" HorizontalAlignment="Left" Height="23" Margin="86,120,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="276" MouseDoubleClick="SubjectTextbox_MouseDoubleClick"/>
+        <TextBox x:Name="MessageTextbox" HorizontalAlignment="Left" Height="92" Margin="10,182,0,0" TextWrapping="Wrap" AcceptsReturn="True" VerticalAlignment="Top" Width="352" MouseDoubleClick="MessageTextbox_MouseDoubleClick"/>
+        <Button x:Name="SendEmail" Content="Send" HorizontalAlignment="Left" Margin="287,279,0,0" VerticalAlignment="Top" Width="75" Click="SendEmail_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,152,0,0" TextWrapping="NoWrap" Text="Attachment" VerticalAlignment="Top" Height="18"/>
+        <TextBox x:Name="AttachmentTextbox" IsReadOnly="True" HorizontalAlignment="Left" Height="23" Margin="86,149,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="196" />
+        <Button x:Name="AttachmentAdd" Content="Add" HorizontalAlignment="Left" Margin="287,150,0,0" VerticalAlignment="Top" Width="75" Click="AttachmentAdd_Click"/>
+        <TextBlock x:Name="StatusTextBlock" HorizontalAlignment="Left" Margin="10,279,0,0" TextWrapping="Wrap" Text="Ready to send." VerticalAlignment="Top"/>
+    </Grid>
+</Window>

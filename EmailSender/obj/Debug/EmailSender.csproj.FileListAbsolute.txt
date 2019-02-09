@@ -1,0 +1,30 @@
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.csprojAssemblyReference.cache
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\EmailSender\EmailSender\obj\Debug\MainWindow.g.cs
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\EmailSender\EmailSender\obj\Debug\App.g.cs
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender_MarkupCompile.cache
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender_MarkupCompile.lref
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\EmailSender\EmailSender\obj\Debug\MainWindow.baml
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.g.resources
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.Properties.Resources.resources
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.GenerateResource.cache
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.CoreCompileInputs.cache
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.exe
+C:\Users\Dylan Bastiaanse\Documents\Visual Studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.pdb
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\C#\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\C#\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\C#\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\C#\EmailSender\EmailSender\obj\Debug\EmailSender.csprojAssemblyReference.cache
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\C#\EmailSender\EmailSender\obj\Debug\MainWindow.g.cs
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\C#\EmailSender\EmailSender\obj\Debug\App.g.cs
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\C#\EmailSender\EmailSender\obj\Debug\EmailSender_MarkupCompile.cache
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\C#\EmailSender\EmailSender\obj\Debug\EmailSender_MarkupCompile.lref
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\C#\EmailSender\EmailSender\obj\Debug\MainWindow.baml
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\C#\EmailSender\EmailSender\obj\Debug\EmailSender.g.resources
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\C#\EmailSender\EmailSender\obj\Debug\EmailSender.Properties.Resources.resources
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\C#\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.GenerateResource.cache
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\C#\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.CoreCompileInputs.cache
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\C#\EmailSender\EmailSender\obj\Debug\EmailSender.exe
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\C#\EmailSender\EmailSender\obj\Debug\EmailSender.pdb
